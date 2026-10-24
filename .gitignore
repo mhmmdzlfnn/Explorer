@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+explorer-backend/node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.log
